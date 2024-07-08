@@ -22,7 +22,7 @@ blocks:
           name: BiBookReader
           color: red
           style: circle
-        title: Amazing Feature
+        title: Readable and clear
         text: >-
           Aliquam blandit felis rhoncus, eleifend ipsum in, condimentum nibh.
           Praesent ac faucibus risus, eu lacinia enim.
