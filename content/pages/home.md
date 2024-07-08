@@ -1,21 +1,11 @@
 ---
-title: Tina Cloud Starter
+title: How-to Guides | Home
 blocks:
-  - headline: Welcome to the Tina Starter
+  - tagline: ''
+    headline: Welcome to How-to Guides
     text: >
-      ## **Editors**
-
-
-      **Click this box to start editing it**. You will see the matching field
-      appear in the left sidebar for you to make changes. The edits will show in
-      this live preview. In that left panel, you can also navigate around the
-      page to change what you are editing (or just click a component here in the
-      preview, like you did before).
-
-
-      **Clicking 'Save' won't do anything in this demo** - but on your site it
-      will save the changes immediately or send an approval request to your team
-      for review.
+      Welcome readers to our new blog, concerning **interesting guides** on the
+      most known and unknown operations that can be performed on any device.
     text2: >
       ## Developers
 
