@@ -6,20 +6,12 @@ blocks:
     text: >
       Welcome readers to our new blog, concerning **interesting guides** on the
       most known and unknown operations that can be performed on any device.
-    text2: >
-      ## Developers
-
-
-      This project is set up to show you the basics of working with Tina. You're
-      looking at the landing page, which pulls content from
-      `content/pages/home.md`, components from components/blocks, and puts them
-      all together in `pages/[filename].tsx`, all based on a config
-      `tina/config.tsx`.
+    text2: ''
     actions:
-      - label: Get Started
+      - label: Check out our guides
         type: button
         icon: true
-        link: /about
+        link: /blog
       - label: Read Blog
         type: link
         icon: false
