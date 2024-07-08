@@ -19,9 +19,9 @@ blocks:
     _template: hero
   - items:
       - icon:
-          name: BiCodeBlock
+          name: BiBookReader
           color: red
-          style: float
+          style: circle
         title: Amazing Feature
         text: >-
           Aliquam blandit felis rhoncus, eleifend ipsum in, condimentum nibh.
