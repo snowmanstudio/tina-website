@@ -2,7 +2,7 @@
 title: How-to Guides | Home
 blocks:
   - tagline: ''
-    headline: Welcome to How-to Guides
+    headline: Wow this is my website...
     text: >
       Welcome readers to our new blog, concerning **interesting guides** on the
       most known and unknown operations that can be performed on any device.
